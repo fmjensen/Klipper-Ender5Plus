@@ -1,6 +1,7 @@
 # Klipper on Ender 5 Plus
 
 This repo contains the config files my Creality ENder 5 Plus with Klipper firmware are running.
+I wrote [this guide](https://munkjensen.net/wiki/index.php?title=Ender_5_Plus_%2B_Klipper) for my future self and others who might find it usefull.
 
 ## Mods
 
